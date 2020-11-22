@@ -1,0 +1,8 @@
+#Haskell Exercises
+
+This repository contains code written in the functional programming language Haskell.
+The code was created during the summer term 2020 for the lecture "Programmierung und Modellierung" 
+@ LMU Munich and is meant to demonstrate an understanding of the fundamental concepts 
+of the Haskell programming language and functional programming as whole.
+Therefore the Repository provides code examples on the use of Higher Order Functions,
+Functors, Applicatives, Monoids, Monads and Purity. 
